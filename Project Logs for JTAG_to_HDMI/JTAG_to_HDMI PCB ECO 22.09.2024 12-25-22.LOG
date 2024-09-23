@@ -1,0 +1,13 @@
+Added Component: Designator=J2(SBH11-PBPC-D10-ST-BK)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/730/sbh11-pbpc-dxx-st-xx-730919.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/730/sbh11-pbpc-dxx-st-xx-730919.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SBH11-PBPC-D10-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,65, 10=0,496, 80=0,38963, 440=0,32211, 945=0,29663, 4900=0,25024, 10000=0,2457 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "20189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S9172-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J2-1
+Added Net: Name=NetJ1_1

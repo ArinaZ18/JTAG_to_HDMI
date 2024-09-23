@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:20:19 On 23.09.2024
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [JTAG_to_HDMI.PcbDoc]
+   Generated File[JTAG_to_HDMI.GTO]
+   Generated File[JTAG_to_HDMI.GTP]
+   Generated File[JTAG_to_HDMI.GTS]
+   Generated File[JTAG_to_HDMI.GTL]
+   Generated File[JTAG_to_HDMI.GBL]
+   Generated File[JTAG_to_HDMI.GBS]
+   Generated File[JTAG_to_HDMI.GBP]
+   Generated File[JTAG_to_HDMI.GBO]
+   Generated File[JTAG_to_HDMI.GM]
+   Generated File[JTAG_to_HDMI.EXTREP]
+   Generated File[JTAG_to_HDMI.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 15:20:20 On 23.09.2024
