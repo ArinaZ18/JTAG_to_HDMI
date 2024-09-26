@@ -1,0 +1,53 @@
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SWITCHCRAFT_RAHHD19TR"; UniqueID = "\GXLLMXNP" ("\GXLLMXNP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RAHHD19TR/Switchcraft+%252F+Conxall/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8007174530"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Switchcraft Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RAHHD19TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RAHHD19TR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RAHHD19TR/Switchcraft+%252F+Conxall/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product0/8007174530"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SBH11-PBPC-D10-ST-BK"; UniqueID = "\AOUPTFOI" ("\AOUPTFOI")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/730/sbh11-pbpc-dxx-st-xx-730919.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/730/sbh11-pbpc-dxx-st-xx-730919.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Chipdip link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product0/8005812384"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SBH11-PBPC-D10-ST-BK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0,65, 10=0,496, 80=0,38963, 440=0,32211, 945=0,29663, 4900=0,25024, 10000=0,2457 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "20189"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product0/8005812384"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "S9172-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "DS1021-1*2SF1-1"; UniqueID = "\FFOKETPZ" ("\FFOKETPZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8009330828"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ningbo Connfly Electric"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DS1021-1*2SF1-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0,11 (EUR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Conrad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product0/8009330828"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "1390105"; VariantName = "[No Variations]"
+Added Component: Designator=J4(DS1021-1*2SF1-1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chipdip link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8009330828"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Connfly Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DS1021-1*2SF1-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,11 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "https://www.chipdip.ru/product0/8009330828"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1390105"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=J4-2
+Added Pin To Net: NetName=NetJ2_4 Pin=J4-2
+Added Net: Name=NetJ2_4

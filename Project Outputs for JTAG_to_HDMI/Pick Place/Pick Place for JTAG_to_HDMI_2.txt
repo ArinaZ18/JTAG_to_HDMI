@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\JTAG_to_HDMI\Project Outputs for JTAG_to_HDMI\Pick Place\Pick Place for JTAG_to_HDMI_2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26.09.24
+Time:       11:41
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                               
+J4         "1x2 header (VCC/GND)" BottomLayer DS1021-1*2SF1-1       3799.213      1625.984      90       ""                                                                                        
+J3         "1x2 header (Rx/Tx)"   BottomLayer DS1021-1*2SF1-1       3799.213      1799.213      90       ""                                                                                        
+J2         SBH11-PBPC-D10-ST-BK   TopLayer    SBH11-PBPC-D10-ST-BK  3265.000      1970.000      0        "Conn Shrouded Header (4 Sides) HDR 20 POS 2.54mm Solder ST Top Entry Thru-Hole"          
+J1         RAHHD19TR              BottomLayer SWITCHCRAFT_RAHHD19TR 3854.331      2291.338      270      "HDMI HDMI 2.0 Receptacle Connector 19 Position Surface Mount, Right Angle; Through Hole" 
