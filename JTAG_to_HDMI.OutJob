@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=JTAG_to_HDMI.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=Video
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -81,7 +81,7 @@ OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
-OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium2=1
 OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
@@ -149,9 +149,9 @@ Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=TNBEWDPE|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotBoardProfile=True|PlotBoardProfileFileName=JTAG_to_HDMI.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=JTAG_to_HDMI.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=JTAG_to_HDMI.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=JTAG_to_HDMI.GBO|UserLayerName.Caption1=JTAG_to_HDMI.GTP|UserLayerName.Caption10=JTAG_to_HDMI.GM1|UserLayerName.Caption11=JTAG_to_HDMI.GBL|UserLayerName.Caption12=JTAG_to_HDMI.GM15|UserLayerName.Caption13=JTAG_to_HDMI.GM3|UserLayerName.Caption14=JTAG_to_HDMI.GTL|UserLayerName.Caption15=JTAG_to_HDMI.GBP|UserLayerName.Caption2=JTAG_to_HDMI.GTO|UserLayerName.Caption3=JTAG_to_HDMI.GTS|UserLayerName.Caption4=JTAG_to_HDMI.GM13|UserLayerName.Caption5=JTAG_to_HDMI.GM2|UserLayerName.Caption6=JTAG_to_HDMI.GKO|UserLayerName.Caption7=JTAG_to_HDMI.GPT|UserLayerName.Caption8=JTAG_to_HDMI.GPB|UserLayerName.Caption9=JTAG_to_HDMI.GBS|UserLayerName.Count=16|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908289|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908303|UserLayerName.Layer13=16908291|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16973835|DocumentPath=C:\Users\Public\Documents\Altium\JTAG_to_HDMI\JTAG_to_HDMI.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\JTAG_to_HDMI.PDF
+OutputFilePath2=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for New_JTAG_to_HDMI
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -176,9 +176,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Public\Documents\Altium\JTAG_to_HDMI\Project Outputs for JTAG_to_HDMI\
+OutputFilePath3=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for JTAG_to_HDMI
+OutputBasePath3=Project Outputs for New_JTAG_to_HDMI
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -191,7 +191,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Free Documents
+OutputBasePath4=Project Outputs for New_JTAG_to_HDMI
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -228,9 +228,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\JTAG_to_HDMI.PDF
+RelativeOutputPath2=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\Public\Documents\Altium\JTAG_to_HDMI\Project Outputs for JTAG_to_HDMI\
+RelativeOutputPath3=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
