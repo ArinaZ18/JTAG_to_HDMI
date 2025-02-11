@@ -1,14 +1,13 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 13:41:37 On 11.02.2025
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [New_JTAG_to HDMI.PcbDoc]
+   Generated File[New_JTAG_to HDMI-RoundHoles.TXT]
+   Generated File[New_JTAG_to HDMI-SlotHoles.TXT]
+   Generated File[New_JTAG_to HDMI.LDP]
+   Generated File[New_JTAG_to HDMI.DRR]
 
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [New_JTAG_to HDMI.PcbDoc]
-   Generated File[New_JTAG_to HDMI.step]
 
-
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 13:41:41 On 11.02.2025
+Finished Output Generation At 17:16:17 On 11.02.2025

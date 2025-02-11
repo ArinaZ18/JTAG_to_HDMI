@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon iR2520 UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -139,14 +139,27 @@ OutputName6=Gerber Files
 OutputCategory6=Fabrication
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
-OutputEnabled6_OutputMedium3=0
+OutputEnabled6_OutputMedium3=1
 OutputEnabled6_OutputMedium4=0
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=TNBEWDPE|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotBoardProfile=True|PlotBoardProfileFileName=JTAG_to_HDMI.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=JTAG_to_HDMI.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=JTAG_to_HDMI.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=JTAG_to_HDMI.GBO|UserLayerName.Caption1=JTAG_to_HDMI.GTP|UserLayerName.Caption10=JTAG_to_HDMI.GM1|UserLayerName.Caption11=JTAG_to_HDMI.GBL|UserLayerName.Caption12=JTAG_to_HDMI.GM15|UserLayerName.Caption13=JTAG_to_HDMI.GM3|UserLayerName.Caption14=JTAG_to_HDMI.GTL|UserLayerName.Caption15=JTAG_to_HDMI.GBP|UserLayerName.Caption2=JTAG_to_HDMI.GTO|UserLayerName.Caption3=JTAG_to_HDMI.GTS|UserLayerName.Caption4=JTAG_to_HDMI.GM13|UserLayerName.Caption5=JTAG_to_HDMI.GM2|UserLayerName.Caption6=JTAG_to_HDMI.GKO|UserLayerName.Caption7=JTAG_to_HDMI.GPT|UserLayerName.Caption8=JTAG_to_HDMI.GPB|UserLayerName.Caption9=JTAG_to_HDMI.GBS|UserLayerName.Count=16|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908289|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908303|UserLayerName.Layer13=16908291|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16973835|DocumentPath=C:\Users\Public\Documents\Altium\JTAG_to_HDMI\JTAG_to_HDMI.PcbDoc
+Configuration6_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=LYAWFECT|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotBoardProfile=True|PlotBoardProfileFileName=JTAG_to_HDMI.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=New_JTAG_to HDMI.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=New_JTAG_to HDMI.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=New_JTAG_to HDMI.GBO|UserLayerName.Caption1=New_JTAG_to HDMI.GTP|UserLayerName.Caption10=New_JTAG_to HDMI.GM1|UserLayerName.Caption11=New_JTAG_to HDMI.GBL|UserLayerName.Caption12=New_JTAG_to HDMI.GM15|UserLayerName.Caption13=New_JTAG_to HDMI.GM3|UserLayerName.Caption14=New_JTAG_to HDMI.GTL|UserLayerName.Caption15=New_JTAG_to HDMI.GKO|UserLayerName.Caption2=New_JTAG_to HDMI.GTO|UserLayerName.Caption3=New_JTAG_to HDMI.GTS|UserLayerName.Caption4=New_JTAG_to HDMI.GM13|UserLayerName.Caption5=New_JTAG_to HDMI.GM2|UserLayerName.Caption6=New_JTAG_to HDMI.GPT|UserLayerName.Caption7=New_JTAG_to HDMI.GPB|UserLayerName.Caption8=New_JTAG_to HDMI.GBP|UserLayerName.Caption9=New_JTAG_to HDMI.GBS|UserLayerName.Count=16|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908289|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908303|UserLayerName.Layer13=16908291|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973837|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973848|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16973833|UserLayerName.Layer9=16973835|DocumentPath=D:\JTAG_to_HDMI\New_JTAG_to HDMI.PcbDoc
+OutputType7=NC Drill
+OutputName7=NC Drill Files
+OutputCategory7=Fabrication
+OutputDocumentPath7=
+OutputVariantName7=
+OutputEnabled7=1
+OutputEnabled7_OutputMedium1=0
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=2
+OutputEnabled7_OutputMedium4=0
+OutputDefault7=0
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\JTAG_to_HDMI\New_JTAG_to HDMI.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
@@ -176,7 +189,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
+OutputFilePath3=D:\JTAG_to_HDMI\Project Outputs for New_JTAG_to_HDMI\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for New_JTAG_to_HDMI
 OutputPathMedia3=
@@ -230,7 +243,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
 OpenOutputs2=1
-RelativeOutputPath3=D:\JTAG_to_HDMI-main\Project Outputs for New_JTAG_to_HDMI\
+RelativeOutputPath3=D:\JTAG_to_HDMI\Project Outputs for New_JTAG_to_HDMI\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

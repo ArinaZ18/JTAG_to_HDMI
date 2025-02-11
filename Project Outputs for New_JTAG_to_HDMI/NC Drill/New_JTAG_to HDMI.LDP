@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\JTAG_to_HDMI\New_JTAG_to HDMI.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=new_jtag_to hdmi-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=new_jtag_to hdmi-slotholes.txt|DrillLayers=gtl,gbl

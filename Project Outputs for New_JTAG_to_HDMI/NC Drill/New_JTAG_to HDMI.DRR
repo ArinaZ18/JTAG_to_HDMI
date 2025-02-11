@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: New_JTAG_to HDMI.PcbDoc   11.02.2025  17:16:16
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : New_JTAG_to HDMI-RoundHoles.TXT
+ASCII SlotHoles File : New_JTAG_to HDMI-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             4         PTH        10.25mm (0.40inch)
+T2      0.9mm (35mil)                                             Slot              4         PTH        58.46mm (2.30inch)
+T3      1.1mm (43mil)                                             Round             20        PTH        51.40mm (2.02inch)
+T4      1.2mm (47mil)                                             Round             4         PTH        12.08mm (0.48inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              32
+
+Two holes at same point : 4
+-----------------------
+1525,433
+1625,433
+1625,709
+1525,709
+
+Total Processing Time (hh:mm:ss) : 00:00:00
