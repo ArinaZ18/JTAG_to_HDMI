@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\JTAG_to_HDMI-main\New_JTAG_to HDMI.PcbDoc
-Date     : 06.02.2025
-Time     : 16:50:33
+Date     : 11.02.2025
+Time     : 13:39:51
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

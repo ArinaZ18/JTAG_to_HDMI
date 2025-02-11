@@ -2,22 +2,28 @@
 FileName = New_JTAG_to HDMI.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : New_JTAG_to HDMI.GBO
+Generating : Top Layer
+      File : New_JTAG_to HDMI.GTL
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D14
+    D10
+    D15
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : New_JTAG_to HDMI.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : New_JTAG_to HDMI.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -25,6 +31,28 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D10
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : New_JTAG_to HDMI.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -48,24 +76,29 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : New_JTAG_to HDMI.GTS
+Generating : Bottom Paste
+      File : New_JTAG_to HDMI.GBP
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Bottom Paste
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : New_JTAG_to HDMI.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D13
 *************************************************************
 
 *************************************************************
@@ -84,42 +117,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : New_JTAG_to HDMI.GTO
+Generating : Top Solder
+      File : New_JTAG_to HDMI.GTS
 
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : New_JTAG_to HDMI.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : New_JTAG_to HDMI.GTL
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -127,14 +128,13 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D15
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************

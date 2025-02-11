@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 16:53:53 On 06.02.2025
+Start Output Generation At 13:41:37 On 11.02.2025
 
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Export STEP
+Type  : ExportSTEP
 From  : Variant [[No Variations]] of PCB Document [New_JTAG_to HDMI.PcbDoc]
-   Generated File[Pick Place for New_JTAG_to HDMI.txt]
+   Generated File[New_JTAG_to HDMI.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:53:53 On 06.02.2025
+Finished Output Generation At 13:41:41 On 11.02.2025
